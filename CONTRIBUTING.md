@@ -250,7 +250,7 @@ By contributing to Dashfena, you agree that:
 For questions or assistance:
 
 - Open an issue for technical questions
-- Email dashfena.dev@gmail.com for general inquiries
+- Email dashfena.dev@dashfena.bps.go.id for general inquiries
 - Review existing documentation and issues first
 
 ## Project Lead
